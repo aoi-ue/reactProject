@@ -1,0 +1,15 @@
+{
+    "name": "user/phpmolt",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Atiqa",
+            "email": "nuratiqa.93@gmail.com"
+        }
+    ],
+    "require": {
+	"moltin/php-sdk" : "^2.0.0",
+        "composer/ca-bundle": "^1.1"
+	
+	}
+}
